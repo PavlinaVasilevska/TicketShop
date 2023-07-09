@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TicketShop",
+    "\\TicketShop.Repository",
+    "\\TicketShop.Repository\\Implementation",
+    "\\TicketShop.Services",
+    "\\TicketShop.Services\\Implementation",
+    "\\TicketShop\\TicketShop.Web",
+    "\\TicketShop\\TicketShop.Web\\Views",
+    "\\TicketShop\\TicketShop.Web\\Views\\Tickets",
+    "\\TicketShop\\TicketShop.Web\\Views\\User"
+  ],
+  "SelectedNode": "\\CinemaTicket.sln",
+  "PreviewInSolutionExplorer": false
+}
